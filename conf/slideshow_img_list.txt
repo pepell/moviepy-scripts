@@ -1,0 +1,7 @@
+intro.png;5
+001.jpg;3
+002.jpg;3
+003.jpg;3
+004.jpg;3
+005.jpg;3
+end.png;5
